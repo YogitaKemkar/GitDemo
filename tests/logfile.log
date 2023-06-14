@@ -1,0 +1,29 @@
+2023-06-11 23:34:57,592 :INFO : test_formSubmission :First name isRahul
+2023-06-11 23:34:58,403 :INFO : test_formSubmission :First name isShikha
+2023-06-11 23:34:58,403 :INFO : test_formSubmission :First name isShikha
+2023-06-11 23:35:05,912 :INFO : test_e2e :getting all the card titles
+2023-06-11 23:35:06,120 :INFO : test_e2e :Enter country name as ind
+2023-06-11 23:35:13,466 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-13 17:56:58,718 :INFO : test_formSubmission :First name isRahul
+2023-06-13 17:56:59,685 :INFO : test_formSubmission :First name isShikha
+2023-06-13 17:56:59,685 :INFO : test_formSubmission :First name isShikha
+2023-06-13 17:57:05,630 :INFO : test_e2e :getting all the card titles
+2023-06-13 17:57:05,912 :INFO : test_e2e :Enter country name as ind
+2023-06-13 17:57:13,461 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-13 19:40:26,038 :INFO : test_e2e :getting all the card titles
+2023-06-13 19:40:26,594 :INFO : test_e2e :Enter country name as ind
+2023-06-13 19:40:34,523 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-13 23:04:15,757 :INFO : test_formSubmission :First name isRahul
+2023-06-13 23:04:16,641 :INFO : test_formSubmission :First name isShikha
+2023-06-13 23:04:16,641 :INFO : test_formSubmission :First name isShikha
+2023-06-13 23:04:22,796 :INFO : test_e2e :getting all the card titles
+2023-06-13 23:04:23,076 :INFO : test_e2e :Enter country name as ind
+2023-06-13 23:04:30,543 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-14 00:42:31,289 :INFO : test_formSubmission :First name isYogi
+2023-06-14 00:42:54,439 :INFO : test_formSubmission :First name isYogi
+2023-06-14 00:50:19,168 :INFO : test_formSubmission :First name isYogi
+2023-06-14 00:52:46,871 :INFO : test_formSubmission :First name isYogi
